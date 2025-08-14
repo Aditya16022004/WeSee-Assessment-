@@ -423,3 +423,7 @@ npm test
 - **Mobile App**: React Native or Flutter application
 - **API Rate Limiting**: Protect against abuse
 - **WebSocket Support**: Real-time updates
+
+## 🚀 Live Demo
+The project is deployed on Vercel.
+🔗 [Click here to view the live site](https://smart-contracts-tn29.vercel.app/)
