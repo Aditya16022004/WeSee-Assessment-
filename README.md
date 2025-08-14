@@ -816,6 +816,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ by Aditya Tripathi**
+**Built by Aditya Tripathi**
 
 *This project demonstrates advanced full-stack blockchain development with real-time gaming capabilities, showcasing modern web3 technologies and best practices.*
