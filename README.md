@@ -427,3 +427,10 @@ npm test
 ## 🚀 Live Demo
 The project is deployed on Vercel.
 🔗 [Click here to view the live site](https://smart-contracts-tn29.vercel.app/)
+
+![UI Screenshot 1](Project%20Images/1.png)
+![UI Screenshot 2](Project%20Images/2.png)
+![UI Screenshot 3](Project%20Images/3.png)
+![UI Screenshot 4](Project%20Images/6.png)
+![UI Screenshot 5](Project%20Images/5.png)
+![UI Screenshot 6](Project%20Images/4.png)
