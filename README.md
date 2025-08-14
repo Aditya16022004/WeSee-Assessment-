@@ -37,9 +37,8 @@ This project was developed as a comprehensive assessment task to build a full-st
    - ✅ Player statistics tracking
 
 ### 🖼️ Frontend UI Screenshots
-
 #### Main Application Interface
-![Gaming Staking dApp Frontend](screencapture-192-168-43-179-3000-2025-08-12-20_49_14.png)
+![Gaming Staking dApp Frontend] : In Project Images Folder (main)
 
 **Frontend Features Demonstrated:**
 - **Wallet Connection**: Successfully connected to MetaMask wallet (0x74e795799621e653bcd125fba2b0549203a5c35e)
@@ -49,12 +48,8 @@ This project was developed as a comprehensive assessment task to build a full-st
 - **Modern UI**: Clean, responsive design with dark theme and card-based layout
 
 #### API Testing with Postman
-
-**Match Creation Success:**
-![Postman Match Creation](postman-match-start.png)
-
-**Token Distribution Testing:**
-![Postman Token Distribution](postman-get-test-tokens.png)
+**Match Creation Success**
+**Token Distribution Testing**
 
 ### 🚧 Issues Faced & Solutions Implemented
 
@@ -428,9 +423,3 @@ npm test
 The project is deployed on Vercel.
 🔗 [Click here to view the live site](https://smart-contracts-tn29.vercel.app/)
 
-![UI Screenshot 1](Project%20Images/1.png)
-![UI Screenshot 2](Project%20Images/2.png)
-![UI Screenshot 3](Project%20Images/3.png)
-![UI Screenshot 4](Project%20Images/6.png)
-![UI Screenshot 5](Project%20Images/5.png)
-![UI Screenshot 6](Project%20Images/4.png)
