@@ -1,0 +1,50 @@
+{
+  "name": "aditya-blockchain-gaming-arena",
+  "version": "1.0.0",
+  "description": "Advanced Blockchain Gaming Arena with Staking & Rewards - Built by Aditya Tripathi",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "node": "hardhat node",
+    "backend": "node backend/server.js",
+    "indexer": "node indexer/indexer.js",
+    "matchmaking": "node matchmaking-service/server.js",
+    "game-server": "node game-server/server.js",
+    "dev": "concurrently \"npm run backend\" \"npm run indexer\"",
+    "dev-game": "concurrently \"npm run backend\" \"npm run indexer\" \"npm run matchmaking\" \"npm run game-server\"",
+    "start-all": "powershell -ExecutionPolicy Bypass -File start-gaming-system.ps1",
+    "test-api": "node test-api.js",
+    "fix-env": "node fix-env.js",
+    "check-contracts": "node check-contracts.js"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.0",
+    "express": "^4.18.2",
+    "socket.io": "^4.8.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "concurrently": "^8.2.0",
+    "hardhat": "^2.17.0"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "gaming",
+    "staking",
+    "dapp",
+    "sepolia",
+    "web3",
+    "defi"
+  ],
+  "author": "Aditya Tripathi <https://github.com/Aditya16022004>",
+  "license": "MIT"
+}
