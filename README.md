@@ -72,7 +72,7 @@ This project was developed as a comprehensive assessment task to build a full-st
 
 ![UI Screenshot 7](Project%20Images/7.png)
 
-4.Matchmaking Started Players in Queue:
+4.Matchmaking Started, Players in Queue:
 
 ![UI Screenshot 8](Project%20Images/8.png)
 
