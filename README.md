@@ -40,8 +40,33 @@ This project was developed as a comprehensive assessment task to build a full-st
 #### Main Application Interface
 ![Gaming Staking dApp Frontend] : In Project Images Folder (main)
 
+1.Wallet Connect and Port Connect with Metamask🐺:
+![UI Screenshot 1](Project%20Images/1.png)
+
+2. USDT:
+![UI Screenshot 2](Project%20Images/2.png)
+            TO
+   GAME TOKEN CONVERSION (GT):
+![UI Screenshot 3](Project%20Images/3.png)
+
+3. Staking GT Token In Game:
+![UI Screenshot 7](Project%20Images/7.png)
+
+4.Matchmaking Started Players in Queue:
+ ![UI Screenshot 8](Project%20Images/8.png)
+ ![UI Screenshot 9](Project%20Images/9.png)
+
+5. Match Found And Token is Being Staked From Each Player:
+![UI Screenshot 10](Project%20Images/10.png)
+
+6. Game Starts🎯:
+![UI Screenshot 11](Project%20Images/11.jpg)
+
+7: Winning Player's Balance Is Updated (Automated)💲:
+![UI Screenshot 5](Project%20Images/5.png)
+
 **Frontend Features Demonstrated:**
-- **Wallet Connection**: Successfully connected to MetaMask wallet (0x74e795799621e653bcd125fba2b0549203a5c35e)
+- **Wallet Connection**: Successfully connected to MetaMask wallet (0x861e1D31804049bd45eA2db67861036fC45e4766)
 - **Token Information**: Real-time GT balance display with refresh functionality
 - **Match Management**: Complete forms for creating matches and submitting results
 - **Leaderboard**: Trophy section for displaying player rankings
