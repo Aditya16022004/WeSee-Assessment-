@@ -544,12 +544,14 @@ The dApp supports multiple networks:
 
 ## 🎯 Game Mechanics
 
-### Rock-Paper-Scissors Implementation
-- **Turn-based gameplay** with real-time communication
-- **3-round matches** with best-of-3 winner determination
-- **Move validation** and simultaneous reveal system
-- **Timeout handling** for inactive players
-- **Automatic result submission** to blockchain
+## Pong Video Game Implementation
+* **Real-time Multiplayer** – Smooth paddle & ball synchronization for an authentic gameplay experience.
+* **Score-Based Matches** – First to **10 points** wins the game.
+* **Accurate Collision Detection** – Handles ball–paddle and ball–wall interactions seamlessly.
+* **Responsive Controls** – Minimal input latency for precise movements.
+* **Timeout & Disconnection Handling** – Automatically manages inactive or dropped players.
+* **Automatic Match Result Submission** – Records and sends results directly to the **blockchain**.
+
 
 ### Matchmaking Algorithm
 - **Skill-based pairing** using ELO rating system
