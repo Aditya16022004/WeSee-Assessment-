@@ -38,7 +38,7 @@ This project was developed as a comprehensive assessment task to build a full-st
 
 5. **🎮 Real-Time Game Server (100% Complete)**
    - ✅ Socket.IO-based real-time game engine
-   - ✅ Turn-based game mechanics with PONG video game
+   - ✅ Game mechanics with PONG video game
    - ✅ Real-time player communication and game state management
    - ✅ Automated result submission to blockchain
    - ✅ Game session management and timeout handling
@@ -160,7 +160,7 @@ This project was developed as a comprehensive assessment task to build a full-st
 **Problem**: Players needed real-time interaction during matches.
 **Solution**: 
 - Implemented Socket.IO-based game server
-- Created turn-based game mechanics with Rock-Paper-Scissors
+- Created game mechanics with PONG video game
 - Added real-time player communication and game state synchronization
 - Implemented automated result submission to blockchain
 
@@ -202,7 +202,7 @@ This project was developed as a comprehensive assessment task to build a full-st
 
 #### Game Server Features Tested:
 - ✅ Real-time player connections
-- ✅ Turn-based game mechanics
+- ✅ PONG game mechanics
 - ✅ Automated result submission
 - ✅ Game state synchronization
 - ✅ Timeout and disconnection handling
